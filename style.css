@@ -1,0 +1,16 @@
+.navbar {
+	background-color:blue ;
+	padding:20px;
+	text-align: center;
+}
+
+.navbar a {
+	color:white;
+	font-size: 30px;
+	font-family: Arial;
+}
+h1 {
+	color: #4899 ;
+	font-size: 100px;
+	font-family: Arial;
+}
